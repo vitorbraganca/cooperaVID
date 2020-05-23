@@ -1,4 +1,4 @@
-#cooperaVID
+# CooperaVID
 
   O cooperativismo no Brasil é prejudicado pela falta de políticas adequadas e pela falta de informação, muitos brasileiros realmente não sabem o que é o cooperativismo, como uma cooperativa funciona e como fazer para tornar-se sócio de uma ou usufruir produtos e serviços prestados por uma.
 
